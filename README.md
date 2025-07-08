@@ -18,7 +18,7 @@ Welcome to my **6-month .NET learning roadmap** (July–December 2025)! This rep
 | `.github/ISSUE_TEMPLATE/` | Templates for roadmap tasks. |
 
 ## Roadmap Overview
-See [`ROADMAP.md`](./ROADMAP.md) for the full timeline. Key milestones:
+See [`ROADMAP.md`](./ROADMAP.markdown) for the full timeline. Key milestones:
 - **July**: C# fundamentals, unit testing (NUnit, Fluent Assertions).
 - **August**: Advanced C#, LINQ, async/await.
 - **September**: ASP.NET Core basics, REST APIs.
@@ -27,8 +27,8 @@ See [`ROADMAP.md`](./ROADMAP.md) for the full timeline. Key milestones:
 - **December**: Capstone project (e.g., Task Manager API).
 
 ## How to Use
-1. 📋 Check [`ROADMAP.md`](./ROADMAP.md) for the timeline and goals.
-2. 📅 View the [GitHub Project](https://github.com/users/YOUR_USERNAME/projects) for task tracking.
+1. 📋 Check [`ROADMAP.md`](./ROADMAP.markdown) for the timeline and goals.
+2. 📅 View the [GitHub Project](https://github.com/KP-Pratham-S-Shetty/DotNet-Roadmap/projects) for task tracking.
 3. 🐛 Create issues for tasks using the provided template.
 4. 📦 Explore `projects/` for code and `resources/` for learning materials.
 5. 💬 Use Discussions for feedback or questions.
@@ -39,7 +39,7 @@ See [`ROADMAP.md`](./ROADMAP.md) for the full timeline. Key milestones:
 - **Checklists**: Markdown checklists in issues and `ROADMAP.md` for granular progress.
 
 ## Contributing
-Want to suggest resources or improvements? See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines.
+Want to suggest resources or improvements? See [`CONTRIBUTING.md`](./CONTRIBUTING.markdown) for guidelines.
 
 ## License
 [MIT License](./LICENSE) – feel free to fork and adapt!
