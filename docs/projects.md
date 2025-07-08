@@ -1,0 +1,1 @@
+# Project Ideas\n\nPlaceholder for project descriptions.\n\n## Planned Projects\n- **Calculator CLI**: A command-line calculator app (July 2025).\n- **To-Do List API**: A REST API for task management (September 2025).\n- **Blog API**: A database-backed blog API (October 2025).\n- **Task Manager API**: A secure, deployable API (December 2025).

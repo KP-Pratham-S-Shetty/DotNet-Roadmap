@@ -1,0 +1,1 @@
+# Tutorials\n\nCurated list of tutorials for .NET roadmap.\n\n- [Microsoft Learn: .NET](https://learn.microsoft.com/en-us/dotnet/)\n- [GeeksforGeeks: C# Tutorial](https://www.geeksforgeeks.org/c-sharp-tutorial/)\n- [freeCodeCamp: ASP.NET Core](https://www.freecodecamp.org/news/tag/asp-net/)\n- [C# in Depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)

@@ -1,0 +1,1 @@
+# ASP.NET Core Notes\n\nPlaceholder for ASP.NET Core topics (e.g., MVC, REST APIs).\n\n## Resources\n- [ASP.NET Core Docs](https://learn.microsoft.com/en-us/aspnet/core/)\n- [freeCodeCamp: ASP.NET Core](https://www.freecodecamp.org/news/tag/asp-net/)

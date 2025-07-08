@@ -1,0 +1,1 @@
+# C# Notes\n\nPlaceholder for C# topics (e.g., variables, unit testing).\n\n## Resources\n- [Microsoft Learn: C#](https://learn.microsoft.com/en-us/dotnet/csharp/)\n- [GeeksforGeeks: C#](https://www.geeksforgeeks.org/c-sharp-tutorial/)
